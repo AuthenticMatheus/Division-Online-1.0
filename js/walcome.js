@@ -10,5 +10,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 3000);
     setTimeout(() => {
       division.classList.remove("orange-text");
-    }, 6000);
+    }, 3000);
   });
