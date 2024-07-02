@@ -9,6 +9,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
   setTimeout(function() {
     welcomeMessage.remove();
-  }, 7000); // Remova a mensagem após 7 segundos (7000 milissegundos)
+  }, 4000); // Remova a mensagem após 7 segundos (7000 milissegundos)
 });
 
