@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 1000);
     setTimeout(() => {
       welcomeMessage.classList.remove("visible");
-    }, 6000);
+    }, 3000);
     setTimeout(() => {
       division.classList.remove("orange-text");
     }, 6000);
