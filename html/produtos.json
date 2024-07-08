@@ -1,0 +1,188 @@
+[
+
+        {
+          "nome": "Teclado HAYOM",
+          "imagem": "../img/Teclado HAYON.png",
+          "descricao": "Vem dar uma olhada no teclado da Hayom!",
+          "preco": "R$29,90",
+          "link": "../PICS PRODUTO/Teclado Hayon.html",
+          "filtro": "HAYOM teclado office"
+        },
+        {
+          "nome": "Teclado Multilaser",
+          "imagem": "../img/Teclado Multilaser.png",
+          "descricao": "Vem dar uma olhada nesse teclado da Multilaser!",
+          "preco": "R$32,90",
+          "link": "../PICS PRODUTO/TecladoMulti.html",
+          "filtro": "Multilaser teclado office"
+        },
+        {
+          "nome": "Teclado C3tech KB-15",
+          "imagem": "../img/TECLADO-C3tech.jpg",
+          "descricao": "Vem dar uma olhada nesse teclado da C3TECH!",
+          "preco": "R$26,00",
+          "link": "../PICS PRODUTO/TecladoC3tech.html",
+          "filtro": "C3tech office"
+        },
+        {
+          "nome": "Teclado Vinik",
+          "imagem": "../img/TecladoVinik.jpg",
+          "descricao": "Vem dar uma olhada nesse teclado VINIK!",
+          "preco": "R$27,00",
+          "link": "../PICS PRODUTO/TecladoVinik.html",
+          "filtro": "Vinik teclado office"
+        },
+        {
+          "nome": "Mouse C3tech",
+          "imagem": "../img/Mouse_C3TECH.BG.png",
+          "descricao": "Mouse da C3tech completo pra você!",
+          "preco": "R$10,90",
+          "link": "../PICS PRODUTO/c3techmouse.html",
+          "filtro": "mouse C3tech office"
+        },
+        {
+          "nome": "Mouse Multilaser",
+          "imagem": "../img/Mouse Multilaser.BG.png",
+          "descricao": "Vem dar uma olhada no mouse da Multi,muito completo!",
+          "preco": "R$5,90",
+          "link": "../PICS PRODUTO/MultilaserMouse.html",
+          "filtro": "mouse Multilaser office"
+        },
+        {
+          "nome": "Mouse c3tech wire",
+          "imagem": "../img/Mouse wire.jpg",
+          "descricao": "Vem dar uma olhada nesse mouse, que além de barato, é muito completo!",
+          "preco": "R$29,90",
+          "link": "../PICS PRODUTO/MouseWire1.html",
+          "filtro": "mouse C3tech office"
+        },
+        {
+          "nome": "Mouse Wireless RGB",
+          "imagem": "../img/MouseWirelessRGB.jpg",
+          "descricao": "Vem dar uma olhada nesse mouse, que além de barato, é muito completo!",
+          "preco": "R$27,00",
+          "link": "../PICS PRODUTO/MouseWire2.html",
+          "filtro": "mouse wireless ND office"
+        },
+        {
+          "nome": "Mouse Wireless Multilaser",
+          "imagem": "../img/MouseWirelessMulti.jpeg",
+          "descricao": "Vem dar uma olhada nesse mouse, que além de barato, é muito completo!",
+          "preco": "R$30,00",
+          "link": "../PICS PRODUTO/MouseWire3.html",
+          "filtro": "mouse wireless Multilaser office"
+        },
+        {
+          "nome": "Mouse Knup",
+          "imagem": "../img/Mouse KNUP.jpg",
+          "descricao": "Vem dar uma olhada nesse mouse , que além de barato, é muito completo!",
+          "preco": "R$5,10",
+          "link": "../PICS PRODUTO/Knupmouse.html",
+          "filtro": "mouse Knup office"
+        },
+        {
+          "nome": "Mouse MaxPrint",
+          "imagem": "../img/maxprint óptico.jpg",
+          "descricao": "Vem dar uma olhada nesse mouse, que além de barato, é muito completo!",
+          "preco": "R$8,90",
+          "link": "../PICS PRODUTO/Maxprint mouse.html",
+          "filtro": "mouse Maxprint office"
+        },
+        {
+          "nome": "Mouse Vinik",
+          "imagem": "../img/Mouse Vinik.jpg",
+          "descricao": "Vem dar uma olhada nesse mouse , que além de barato, é muito completo!",
+          "preco": "R$9,50",
+          "link": "../PICS PRODUTO/Mouse vinik.html",
+          "filtro": "mouse Vinik office"
+        },
+        {
+          "nome": "Mouse Pad APPTECH",
+          "imagem": "../img/Mousepad APPTECH.png",
+          "descricao": "Vem dar uma olhada nesse Mousepad ,barato e muito completo!",
+          "preco": "R$9,00",
+          "link": "../PICS PRODUTO/Apptech.html",
+          "filtro": "mousepad APPTECH"
+        },
+        {
+          "nome": "Mousepad Trust",
+          "imagem": "../img/Mousepad Trust.jpg",
+          "descricao": "Vem dar uma olhada nesse Mousepad, barato e muito completo!",
+          "preco": "R$12,00",
+          "link": "../PICS PRODUTO/Trust.html",
+          "filtro": "mousepad Trust"
+        },
+        {
+          "nome": "Mousepad MaxPrint",
+          "imagem": "../img/maxprintmousepad.jpg",
+          "descricao": "Vem dar uma olhada nesse mousepad , barato e muito completo!",
+          "preco": "R$12,00",
+          "link": "../PICS PRODUTO/MaxMousepad.html",
+          "filtro": "mousepad Maxprint"
+        },
+        {
+          "nome": "Mousepad Fortrek",
+          "imagem": "../img/mousepadFTK.jpg",
+          "descricao": "Vem dar uma olhada nesse mousepad , barato e muito completo!",
+          "preco": "R$13,00",
+          "link": "../PICS PRODUTO/mousepadFortrek.html",
+          "filtro": "mousepad Fortrek "
+        },
+        {
+          "nome": "Mousepad \"tapetão\" Havit",
+          "imagem": "../img/TapetãoHavit.jpg",
+          "descricao": "Vem dar uma olhada nesse mousepad, barato e muito completo!",
+          "preco": "R$35,00",
+          "link": "../PICS PRODUTO/Tapetão1.html",
+          "filtro": "mousepad gamer Havit"
+        },
+        {
+          "nome": "Mousepad \"tapetão\" Trust",
+          "imagem": "../img/TapetãoTrust.jpg",
+          "descricao": "Vem dar uma olhada nesse mousepad, barato e muito completo!",
+          "preco": "R$38,00",
+          "link": "../PICS PRODUTO/Tapetão2.html",
+          "filtro": "mousepad gamer Trust"
+        },
+        {
+          "nome": "Headphone Multilaser",
+          "imagem": "../img/headphone_Multilaser.BG.png",
+          "descricao": "Vem dar uma olhada nesse headphone, barato e muito completo!",
+          "preco": "R$95,00",
+          "link": "../PICS PRODUTO/headphone.html",
+          "filtro": "fone Multilaser"
+        },
+        {
+          "nome": "Headphone C3tech",
+          "imagem": "../img/headphone_c3tech.jpg",
+          "descricao": "Vem dar uma olhada nesse headphone, barato e muito completo!",
+          "preco": "R$68,00",
+          "link": "../PICS PRODUTO/headphoneC3.html",
+          "filtro": "fone C3tech"
+        },
+        {
+          "nome": "Fone Bluetooth TWS70",
+          "imagem": "../img/TWS Y70.jpeg",
+          "descricao": "Vem dar uma olhada nesse fone, que além de barato, é muito completo!",
+          "preco": "R$32,90",
+          "link": "../PICS PRODUTO/TWS70.html",
+          "filtro": "fone Genéricos"
+        },
+        {
+          "nome": "Fone com fio Multilaser",
+          "imagem": "../img/Fone_com_fio.BG.png",
+          "descricao": "Vem dar uma olhada nesse fone, que além de barato, é muito completo!",
+          "preco": "R$30,90",
+          "link": "../PICS PRODUTO/Fone_fio.html",
+          "filtro": "fone Multilaser"
+        },
+        {
+          "nome": "Fone Gamer Redragon",
+          "imagem": "../img/Fone Gamer.png",
+          "descricao": "Vem dar uma olhada nesse fone, que além de barato, é muito completo!",
+          "preco": "R$110,00",
+          "link": "../PICS PRODUTO/FoneGamer.html",
+          "filtro": "fone gamer Redragon"
+        }
+ ]
+
